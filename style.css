@@ -3,6 +3,8 @@
 body{
     background-color: rgb(70, 142, 236);
     font: normal 20pt Arial;
+    min-width: 300px;
+    max-width: 1050px;
 
 }
 header{
